@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abidar", "Abidar\Abidar.csproj", "{5D0A8B41-25A0-47B3-AD9E-BC285A2DD3AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abidar.TestSite", "Abidar.TestSite\Abidar.TestSite.csproj", "{890FF156-8B76-404A-ADAC-E4714C96851E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs02.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Abidar\\Abidar.csproj
+		SccProjectName1 = Abidar
+		SccLocalPath1 = Abidar
+		SccProjectUniqueName2 = Abidar.TestSite\\Abidar.TestSite.csproj
+		SccProjectName2 = Abidar.TestSite
+		SccLocalPath2 = Abidar.TestSite
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0A8B41-25A0-47B3-AD9E-BC285A2DD3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0A8B41-25A0-47B3-AD9E-BC285A2DD3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0A8B41-25A0-47B3-AD9E-BC285A2DD3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0A8B41-25A0-47B3-AD9E-BC285A2DD3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890FF156-8B76-404A-ADAC-E4714C96851E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890FF156-8B76-404A-ADAC-E4714C96851E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890FF156-8B76-404A-ADAC-E4714C96851E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890FF156-8B76-404A-ADAC-E4714C96851E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
